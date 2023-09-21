@@ -14,7 +14,7 @@ The `cr `parameter represents the crossover rate, where a higher value indicates
 
 The `mt `parameter represents the mutation rate, with higher values indicating increased randomness and diversity.
 
-Step
+### Step
 
 1. initial is the first step of the GA
 2. Use crossover and mutation to get the new generation chromosome.
